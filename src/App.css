@@ -1,0 +1,78 @@
+*
+{
+  margin: 0%;
+  padding: 0%;
+}
+.main-class
+{
+  width: 48.3%;
+  display: flex;
+  height: 200px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.main-class img
+{
+  width: 40%;
+  border-radius: 10px 0px 0px 10px;
+}
+.main-class .contain
+{
+  width: 60%;
+}
+.mm
+{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #272B33;  
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.contain
+{
+  background-color: #3C3E44;
+  padding: 10px;
+  color: aliceblue;
+  border-radius:0px 10px 10px 0px  ;
+}
+
+.contain h1
+{
+  font-size: 25px;
+}
+.contain .kk
+{
+  font-size: 17px;
+  
+}
+.contain .oo p
+{
+  /* background-color: rgba(black, black, black, 3.0); */
+  font-size: 16px;
+}
+.contain .oo h3
+{
+  font-size: 17px;
+  /* font-weight: 400; */
+}
+.contain .oo
+{
+  padding-top: 10px;
+}
+.flex
+{
+  display:flex;
+}
+.flex .kk .line
+{
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  /* background-color: aliceblue; */
+  margin-right: 5px;
+} 
+.flex .kk
+{
+  align-items: center;
+
+}
